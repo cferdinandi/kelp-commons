@@ -20,6 +20,8 @@ Traditional OSS licenses also allow your work to be used for wildly unethical th
 
 Kelp Commons, like all Fair-Code licenses, attempts to bridge that gap.
 
+[Learn more about why I made this here.](https://gomakethings.com/the-kelp-commons-license/)
+
 
 ## Credits
 
