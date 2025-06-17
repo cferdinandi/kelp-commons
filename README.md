@@ -23,7 +23,7 @@ Kelp Commons, like all Fair-Code licenses, attempts to bridge that gap.
 
 ## Credits
 
-It was inspired by the [n8n Sustainable Use license](https://github.com/n8n-io/n8n/blob/master/LICENSE.md) and the [Kirby CMS license](https://getkirby.com/license/2025-03-18).
+It was inspired by the [n8n Sustainable Use license](https://github.com/n8n-io/n8n/blob/master/LICENSE.md), the [Kirby CMS license](https://getkirby.com/license/2025-03-18), and the [Ethical Source project](https://ethicalsource.dev).
 
 You are free to remix and adapt the text of this license to your own project under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
 
